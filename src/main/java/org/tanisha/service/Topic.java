@@ -6,6 +6,9 @@ public class Topic {
 	private String name;
 	private String description;
 	
+	Topic(){
+		
+	}
 	
 	Topic(String id, String name, String description){
 		this.id = id;
